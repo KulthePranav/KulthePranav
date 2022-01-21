@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KulthePranav
 - 👀 I’m interested in Fullstack web development
 - 🌱 I’m currently learning HTML, CSS, Javascript, MERN stack
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kulthepranav@gmail.com
 
 <!---
